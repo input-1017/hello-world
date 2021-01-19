@@ -9,8 +9,6 @@ url = "https://www.everyonepiano.cn/Music-class12-%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF
 headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
                          "Chrome/87.0.4280.141 Safari/537.36"}
 
-rate_of_progress = 0
-
 
 def request_(count):  # 主网页
     print('开始')
